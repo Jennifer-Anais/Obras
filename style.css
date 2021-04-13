@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color:blue;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+p{
+    color: black;
+    text-transform: capitalize;
+}
