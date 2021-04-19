@@ -1,16 +1,41 @@
 body{
     background-color: antiquewhite;
 }
-h1 { 
+.titulo { 
     text-align: center;
     font-size: 40px;
     color:blue;
-    text-decoration: underline;
-    
+    text-decoration: underline;   
     text-transform: uppercase;
+}
+p {
+
+    background-color: lightgrey;
+   
+    color: blue;
+   
+   }
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+.nav-bg{
+    background-color: cadetblue;
+}
+
+   .navegacion-principal {
+    
 
 }
-p{
-    color: black;
-    text-transform: capitalize; }
-    
+.navegacion-principal {
+   background-color: aqua;
+}
+
+p.especial {
+
+    background-color: lightgrey;
+   
+    color: green;
+   
+   }
